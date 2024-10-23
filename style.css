@@ -7,7 +7,7 @@
 body{
     width: 100%;
     height: 100vh;
-    background-image: url(Air-Jordan-1-Fearless-Ones-Collection-Release-Date.jpg);
+    background-image: url(off-white-jordan-5-apparel-release-info-2.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,6 +15,7 @@ body{
 
 p{
     color: #ffffff;
+    font-size: bold(3rem, 6vw, 6rem)
 }
 
 nav{
@@ -54,13 +55,13 @@ nav .other,
 .nav-container .links a{
     margin: 0 25px;
     font-weight: 500;
-    color: black;
+    color: rgb(255, 255, 255);
     text-decoration: none;
     transition: 0.2s linear;
 }
 
 .nav-container .links a:hover{
-    color: #fe0022;
+    color: #fa102f;
 }
 
 .dropdown{
@@ -91,7 +92,7 @@ nav .other,
 }
 
 .dropdown .links .link:hover{
-    background-color: #ff0426;
+    background-color: #ff1332;
 }
 
 .dropdown .cancel{
@@ -133,7 +134,7 @@ section .image{
 .content h2{
     font-size: clamp(2rem, 5vw, 3.5rem);
     font-weight: 800;
-    color: #ff1f3d;
+    color: #fc1736;
 }
 
 .content h1{
@@ -143,12 +144,12 @@ section .image{
 }
 
 .content h1 span{
-    color: #fd1131;
+    color: #fe0a2b;
 }
 
 .content hr{
     height: 5px;
-    background-color: #fe2541;
+    background-color: #f91533;
     border: none;
     border-radius: 5px;
 }
@@ -175,12 +176,12 @@ section .image{
 }
 
 .content .btn button{
-    width: 135%;
+    width: 130%;
     height: 5vh;
     font-size: 100%;
     font-weight: 600;
     color: white;
-    background-color: #ff0022;
+    background-color: #ff1e3c;
     border-radius: 40px;
     border: none;
     outline: none;
@@ -188,7 +189,7 @@ section .image{
 }
 
 .content .btn button:hover{
-    box-shadow: 0 0 10px 5px #ff0224;
+    box-shadow: 0 0 10px 5px #fc2441;
 }
 
 .content .other-shoes{
@@ -204,7 +205,8 @@ section .image{
     border-radius: 10px;
     flex-direction: column;
     width:25%;
-    box-shadow: 0 0 10px rgb(244, 13, 13);
+    box-shadow: 0 0 10px rgb(245, 65, 65);
+    color: #e12323;
 }
 
 .content .other-shoes .shoes img{
@@ -220,7 +222,7 @@ section .image{
 .other-shoes .shoes label{
     text-align: center;
     margin: 10px 0;
-    color: #ffffff; 
+    color: #ffffff;
 }
 
 @media (max-width:884px){
@@ -229,7 +231,7 @@ section .image{
     }
 
     .nav-container .logo img{
-        filter: drop-shadow(0 0 10px black);
+        filter: drop-shadow(0 0 10px rgb(238, 25, 25));
     }
 
     section{
