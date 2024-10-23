@@ -7,14 +7,14 @@
 body{
     width: 100%;
     height: 100vh;
-    background-image: url(Air-Jordan-1-Fearless-Ones-Collection-Release-Date.jpg);
+    background-image: url(jack-bright-cactus-fz8117-102.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
-
 p{
     color: #ffffff;
+    font-size: bold(3rem, 6vw, 6rem);
 }
 
 nav{
@@ -60,7 +60,7 @@ nav .other,
 }
 
 .nav-container .links a:hover{
-    color: #fe0022;
+    color: #48ec66;
 }
 
 .dropdown{
@@ -91,7 +91,7 @@ nav .other,
 }
 
 .dropdown .links .link:hover{
-    background-color: #ff0426;
+    background-color: #4cf832;
 }
 
 .dropdown .cancel{
@@ -133,22 +133,22 @@ section .image{
 .content h2{
     font-size: clamp(2rem, 5vw, 3.5rem);
     font-weight: 800;
-    color: #ff1f3d;
+    color: #99fd4d;
 }
 
 .content h1{
     font-size: clamp(3rem, 6vw, 6rem);
     font-weight: 700;
-    color: #ffffff;
+    color: antiquewhite;
 }
 
 .content h1 span{
-    color: #fd1131;
+    color: #94f747;
 }
 
 .content hr{
     height: 5px;
-    background-color: #fe2541;
+    background-color: #84fe48;
     border: none;
     border-radius: 5px;
 }
@@ -180,7 +180,7 @@ section .image{
     font-size: 100%;
     font-weight: 600;
     color: white;
-    background-color: #ff0022;
+    background-color: #a4fe49;
     border-radius: 40px;
     border: none;
     outline: none;
@@ -188,7 +188,7 @@ section .image{
 }
 
 .content .btn button:hover{
-    box-shadow: 0 0 10px 5px #ff0224;
+    box-shadow: 0 0 10px 5px #a1f74a;
 }
 
 .content .other-shoes{
@@ -204,7 +204,7 @@ section .image{
     border-radius: 10px;
     flex-direction: column;
     width:25%;
-    box-shadow: 0 0 10px rgb(244, 13, 13);
+    box-shadow: 0 0 10px rgb(80, 247, 19);
 }
 
 .content .other-shoes .shoes img{
@@ -220,7 +220,7 @@ section .image{
 .other-shoes .shoes label{
     text-align: center;
     margin: 10px 0;
-    color: #ffffff; 
+    color: #ffffff;
 }
 
 @media (max-width:884px){
@@ -229,7 +229,7 @@ section .image{
     }
 
     .nav-container .logo img{
-        filter: drop-shadow(0 0 10px black);
+        filter: drop-shadow(0 0 10px rgb(63, 236, 24));
     }
 
     section{
