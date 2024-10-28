@@ -23,13 +23,6 @@ body{
   overflow: scroll;
 }
 
-body1{
-    background-image: url(j8.webp);
-    background-position: bottom 40px right 130px;
-    background-repeat: no-repeat; 
-    background-size: cover;
-}
-
 p{
     color: #ffffff;
     font-size: bold(3rem, 6vw, 6rem)
