@@ -9,8 +9,20 @@ body{
     height: 100vh;
     background-image: url(off-white-jordan-5-apparel-release-info-2.webp);
     background-position: center;
+    background-repeat: no-repeat; 
     background-size: cover;
 }
+
+.bgSizeCover {
+  background-image: url(j8.webp);
+  background-size: cover;
+  width: 160px;
+  height: 160px;
+  border: 2px solid;
+  resize: both;
+  overflow: scroll;
+}
+
 body1{
     background-image: url(j8.webp);
     background-position: bottom 40px right 130px;
