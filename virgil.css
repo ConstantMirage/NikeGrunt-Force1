@@ -17,6 +17,7 @@ body{
     height: 100vh;
     background-image: url(Trav6.webp);
     background-position: 55% 65%;
+    background-position: bottom 40px right 130px;
     background-repeat: no-repeat;
     background-size: cover;
 }
