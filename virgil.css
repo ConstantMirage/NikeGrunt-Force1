@@ -12,6 +12,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+div {
+  background-image: url(j8.webp);
+}
+
 body{
     width: 100%;
     height: 100vh;
