@@ -12,10 +12,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-div {
-  background-image: url(j8.webp);
-  background-position: bottom 40px right 130px;
-  background-repeat: no-repeat;  
+body{
+    background-image: url(j8.webp);
+    background-position: bottom 40px right 130px;
+    background-repeat: no-repeat;  
 }
 
 p{
