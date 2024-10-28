@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif;
-    
+    box-sizing: border-box; 
 }
 
 body{
@@ -10,7 +10,7 @@ body{
     height: 100vh;
     background-image: url(off-white-jordan-5-apparel-release-info-2.webp);
     background-position: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 
