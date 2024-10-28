@@ -8,6 +8,7 @@
 body{
   background-image: url(j8.webp);
   background-size: cover;
+  background-repeat: no-repeat;  
   width: 160px;
   height: 160px;
   border: 2px solid;
