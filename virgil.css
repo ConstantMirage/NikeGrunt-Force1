@@ -12,6 +12,14 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(Trav6.webp);
+    background-position: below;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 p{
     color: #ffffff;
