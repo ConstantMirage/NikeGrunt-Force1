@@ -15,7 +15,8 @@ body{
 body{
     background-image: url(j8.webp);
     background-position: bottom 40px right 130px;
-    background-repeat: no-repeat;  
+    background-repeat: no-repeat; 
+    background-size: cover;
 }
 
 p{
