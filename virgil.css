@@ -26,16 +26,16 @@ body{
 .popup3{
     width: 100%;
     height: 100vh;
-    background-image: url(VIRGIL.webp);
+    background-image: url(VIRGIL2.webp);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.popup 2{
+.popup2{
     width: 100%;
     height: 100vh;
-    background-image: url(VIRGIL/3.png);
+    background-image: url(VIRGIL3.png);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
@@ -44,7 +44,7 @@ body{
 .popup4{
     width: 100%;
     height: 100vh;
-    background-image: url(VIRGIL/4.jpg);
+    background-image: url(VIRGIL4.jpg);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
@@ -53,8 +53,8 @@ body{
 .popup5{
     width: 100%;
     height: 100vh;
-    background-image: url(VIRGIL /5.jpg);
-    background-position: cover;
+    background-image: url(VIRGIL5.jpg);
+    background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
 }
