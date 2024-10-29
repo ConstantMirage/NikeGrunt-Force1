@@ -14,7 +14,7 @@ body{
     background-size: cover;
 }
 
-.popup{
+popup{
     width: 100%;
     height: 100vh;
     background-image: url(VIRGIL.webp);
@@ -23,37 +23,37 @@ body{
     background-size: cover;
 }
 
-.third{
+third{
     width: 100%;
     height: 100vh;
-    background-image: url(Trav2.webp);
+    background-image: url(VIRGIL 2.webp);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.popup 2{
+popup 2{
     width: 100%;
     height: 100vh;
-    background-image: url(VIRGIL/3.png);
+    background-image: url(VIRGIL 3.png);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.popup4{
+popup4{
     width: 100%;
     height: 100vh;
-    background-image: url(VIRGIL/4.jpg);
+    background-image: url(VIRGIL 4.jpg);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.popup5{
+popup5{
     width: 100%;
     height: 100vh;
-    background-image: url(VIRGIL/5.jpg);
+    background-image: url(VIRGIL 5.jpg);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
