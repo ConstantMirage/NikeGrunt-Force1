@@ -9,7 +9,7 @@ body{
     height: 100vh;
     background-image: url(j8.webp);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 
