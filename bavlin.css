@@ -24,7 +24,7 @@ body{
 .popup3{
     width: 100%;
     height: 100vh;
-    background-image: url(j13.jpg);
+    background-image: url(j13.jpeg);
     background-position: contain;
     background-repeat: no-repeat;
     background-size: cover;
@@ -43,7 +43,7 @@ body{
     width: 100%;
     height: 100vh;
     background-image: url(j7.webp);
-    background-position: contain;
+    background-position: cover;
     background-repeat: no-repeat;
     background-size: cover;
 }
