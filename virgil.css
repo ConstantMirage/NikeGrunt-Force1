@@ -9,7 +9,7 @@ body{
     width: 100%;
     height: 100vh;
     background-image: url(off-white-jordan-5-apparel-release-info-2.webp);
-    background-position: cover;
+    background-position: contain;
     background-repeat: non-repeat;
     background-size: cover;
 }
@@ -18,7 +18,7 @@ body{
     width: 100%;
     height: 100vh;
     background-image: url(j9.webp);
-    background-position: cover;
+    background-position: contain;
     background-repeat: non-repeat;
     background-size: cover;
 }
