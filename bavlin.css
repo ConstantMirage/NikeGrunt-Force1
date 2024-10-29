@@ -12,6 +12,50 @@ body{
     background-repeat: repeat;
     background-size: cover;
 }
+.popup{
+    width: 100%;
+    height: 100vh;
+    background-image: url(j12.png.webp);
+    background-position: contain;
+    background-repeat: non-repeat;
+    background-size: cover;
+}
+
+.popup3{
+    width: 100%;
+    height: 100vh;
+    background-image: url(j13.jpg);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.popup2{
+    width: 100%;
+    height: 100vh;
+    background-image: url(j15.jpg);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.popup4{
+    width: 100%;
+    height: 100vh;
+    background-image: url(j7.webp);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.popup5{
+    width: 100%;
+    height: 100vh;
+    background-image: url(j14.jpg);
+    background-position: contain;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
 p{
     color: #ffffff;
