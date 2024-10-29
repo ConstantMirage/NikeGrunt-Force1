@@ -17,7 +17,7 @@ body{
     height: 100vh;
     background-image: url(j12.png.webp);
     background-position: contain;
-    background-repeat: non-repeat;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 
